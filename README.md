@@ -38,12 +38,10 @@ and run
 npm start
 ```
 
-Open [Open NodeJs](http://localhost:3000) with your browser to see the result.
-- Change the Account Social, name, bio, links and texts in the `data/config.ts` file.
-- Change the Api Spotify And Discord in the `components/discord & NowPlaying.tsx` file.
-- To change the background, go to the `app/global.css` Paste Your Link Background On Line 8.
+Open [NodeJs](https://nodejs.org/en/download/prebuilt-installer/current).
+- Enter the number you want to spam then use the country code prefix without + `628xxxxxx`
+- Enter the amount you want to spam `1-9999999`
 
 ## 🤔 How to contribute
 
-- This Script Is Forked By Me:-
-- If You Want To Download The :wave: [Original](https://github.com/arnvgh/links/tree/main) "# Arnvgh"
+- This Script Is Forked By Me: Kurumi Codex
