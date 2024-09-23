@@ -66,12 +66,12 @@ async function KurumiProject() {
 }
 console.log(KurumiColor + `Running...
 =========================
-┏❐ IKUTI PERINTAH DI BAWAH, UNTUK MELAKUKAN SPAM
+┏❐ FOLLOW THE INSTRUCTIONS BELOW, TO SPAM
 ┃
-┃⭔ Masukan Nomor Target ( 62xxxxxxx )
-┃⭔ Masukan Jumlah ( 1-100 )
+┃⭔ Input Number Target ( 62xxxxxxx )
+┃⭔ Input How Much ( 1-100 )
 ┃
-┗❐ LAKUKAN PERINTAH DI ATAS SEKARANG 
+┗❐ PERFORM THE ABOVE COMMAND NOW 
 =========================` + xColor);
 
 KurumiProject();
